@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AreaPlayer.cs" t="Include" />
+          <e p="BossCap.cs" t="Include" />
+          <e p="Cube.cs" t="Include" />
+          <e p="Cube_Good.cs" t="Include" />
+          <e p="EnemyCap.cs" t="Include" />
+          <e p="EnemyCube.cs" t="Include" />
+          <e p="EnemyCubePart.cs" t="Include" />
+          <e p="Global.cs" t="Include" />
+          <e p="GlobalText.cs" t="Include" />
+          <e p="Level1Cube.cs" t="Include" />
+          <e p="LevelTrigger.cs" t="Include" />
+          <e p="MainCamera.cs" t="Include" />
+          <e p="Neutral_Cap.cs" t="Include" />
+          <e p="Neutral_Cube.cs" t="Include" />
+          <e p="Parents.cs" t="Include" />
+          <e p="PColor.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Player2.cs" t="Include" />
+          <e p="School" t="Include">
+            <e p="Kindergarten" t="Include">
+              <e p="Kindergarten_Cube.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Sphere.cs" t="Include" />
+          <e p="Teacher.cs" t="Include" />
+          <e p="Triggers" t="Include">
+            <e p="LevelTrigger2.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CapFriends.cs" t="Include" />
+            <e p="CubeFriends.cs" t="Include" />
+            <e p="RightClickCounter.cs" t="Include" />
+            <e p="TImer.cs" t="Include" />
+            <e p="TotalFriends.cs" t="Include" />
+            <e p="TotalShapes.cs" t="Include" />
+          </e>
+          <e p="Work" t="Include">
+            <e p="WorkCap.cs" t="Include" />
+            <e p="WorkCube.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="capstone_2.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_capstone_2.-50762492.00" t="ExcludeRecursive" />
+  </component>
+</project>
